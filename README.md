@@ -2,7 +2,7 @@
 ___
 * My favorite sport is baseball  
 * 11th Grader  
-* [Email](justing5321@hstat.org)  
+* **[Email](justing5321@hstat.org)**
 * _High School Of Telecommunications Arts and Technology_
 
 #### Schedule:  
